@@ -10,6 +10,7 @@ public class EstruturaCondicionais {
         int idade = scanner.nextInt();
         boolean isMaiorIdade = idade >= 18;
 
+
         if (isMaiorIdade) {
 
         }
